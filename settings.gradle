@@ -1,0 +1,4 @@
+include ':remoteconfigdebugger-no-op'
+include ':sample'
+include ':remoteconfigdebugger'
+rootProject.name = "RemoteConfigDebugger"

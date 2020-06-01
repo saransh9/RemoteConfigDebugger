@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="remote_config_debugger_name">Remote Config Debugger</string>
+    <string name="remote_config_debugger_channel_name">Remote Config Debugger</string>
+    <string name="remote_config_debugger_channel_desc">for remote config debug</string>
+    <string name="remote_config_debugger_channel_notification_title">Click to set Value</string>
+    <string name="remoteconfigdebug">RemoteConfigDebug</string>
+    <string name="rcd_default_name">Default   (%s)</string>
+    <string name="rcd_changed">Changed   (%s)</string>
+    <string name="rcd_reset_to_default">Reset To Default</string>
+    <string name="rcd_save">Save</string>
+    <string name="rcd_value_changed_successfully">Value changed successfully</string>
+    <string name="rcd_value_reset_successfully">Value reset successfully</string>
+</resources>

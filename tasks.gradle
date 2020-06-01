@@ -1,0 +1,4 @@
+tasks.register("publishToMaven") {
+    dependsOn(":remoteconfigdebugger:bintrayUpload")
+    dependsOn("remoteconfigdebugger-no-op:bintrayUpload")
+}
