@@ -6,10 +6,6 @@ android {
     compileSdkVersion rootProject.compileSdkVersion
     buildToolsVersion "29.0.3"
 
-    compileOptions {
-        kotlinOptions.freeCompilerArgs += ['-module-name', "com.github.RemoteConfigDebugger.library"]
-    }
-
     defaultConfig {
         minSdkVersion rootProject.minSdkVersion
         targetSdkVersion rootProject.targetSdkVersion
